@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           this is not good :( :(( super sad now
+    okey dokey cloud run passed
         </p>
         <a
           className="App-link"
