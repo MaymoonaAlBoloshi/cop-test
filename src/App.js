@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          add to gcp
+          add to gcp and some other stuff
         </a>
       </header>
     </div>
